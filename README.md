@@ -54,7 +54,7 @@ Add a link shortcut to Dev Launcher or add it to your path variable. Open Dev La
 
 First you'll select the projects that you'd like to use an IDE to debug, then select supporting projects you'd like to run in the background.
 
-![image info](./pictures/image.png)
+![Dev Launcher Console Window](./images/dev_launch_example.png)
 
 
 ## Contributing
