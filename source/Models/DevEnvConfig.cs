@@ -3,6 +3,7 @@
 
         public string DevEnvPath { get; set; }
         public string DevEnvParams { get; set; }
+        public bool UseWindowsTerminal { get; set; }
 
     }
 }

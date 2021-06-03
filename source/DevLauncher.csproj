@@ -8,6 +8,9 @@
     <PackageIcon>rocket-ship.ico</PackageIcon>
     <Description>Dev Launcher is a command line tool to help you spool up your microservices for debugging.</Description>
     <Authors />
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <PackageReleaseNotes>r-1.0.1.0 - Adds Windows Terminal as terminal option</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
