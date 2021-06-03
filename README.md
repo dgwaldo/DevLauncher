@@ -26,7 +26,8 @@ Download the .zip file DevLauncher and unzip it to the folder of your choice. Ex
 {
 	"DevEnv": {
         "DevEnvPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\Common7\\IDE\\devenv",
-        "DevEnvParams":  "/command debug.start"
+        "DevEnvParams":  "/command debug.start",
+	"UseWindowsTerminal" : true
     },
     "ProjConfigs": [
         {
